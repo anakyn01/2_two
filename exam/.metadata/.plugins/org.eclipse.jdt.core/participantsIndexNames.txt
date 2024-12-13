@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+E:\dev\workspace\2_two\exam\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3455145182.index
+\cbq_1\src\main\java
+E:\dev\workspace\2_two\exam\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\465763508.index
+\community\src\main\java
+E:\dev\workspace\2_two\exam\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2167194953.index
+\cbq_1\src\main\java

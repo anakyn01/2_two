@@ -1,0 +1,314 @@
+
+10월 30, 2024 15:46:08.202 NEW SESSION
+10월 30, 2024 15:46:08.202 [10724:20740:1030/154608.199:ERROR:device_event_log_impl.cc(201)] [15:46:08.199] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+10월 30, 2024 15:46:08.310 Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 30, 2024 15:46:08.545 [10724:1052:1030/154608.545:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 30, 2024 15:46:38.53 [11516:7432:1030/154638.053:ERROR:device_event_log_impl.cc(201)] [15:46:38.050] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+10월 30, 2024 15:46:38.143 Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 30, 2024 15:46:38.216 [11516:2008:1030/154638.216:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 30, 2024 15:47:01.231 [11516:2008:1030/154701.231:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 30, 2024 15:50:32.384 [8464:22420:1030/155032.384:ERROR:device_event_log_impl.cc(201)] [15:50:32.384] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+10월 30, 2024 15:50:32.461 Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 30, 2024 15:50:32.551 [8464:12616:1030/155032.550:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 30, 2024 15:51:30.33 [16516:6000:1030/155130.033:ERROR:device_event_log_impl.cc(201)] [15:51:30.032] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+10월 30, 2024 15:51:30.130 Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 30, 2024 15:51:30.201 [16516:7824:1030/155130.201:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 30, 2024 15:51:58.551 [16516:7824:1030/155158.550:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 30, 2024 15:52:50.689 [16516:7824:1030/155250.688:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 30, 2024 15:55:50.987 [14088:13912:1030/155550.986:ERROR:device_event_log_impl.cc(201)] [15:55:50.985] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+10월 30, 2024 15:55:51.73 Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 30, 2024 15:55:51.164 [14088:1496:1030/155551.164:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 30, 2024 16:00:23.742 [8144:12252:1030/160023.741:ERROR:device_event_log_impl.cc(201)] [16:00:23.737] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+10월 30, 2024 16:00:23.856 Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 30, 2024 16:00:23.912 [8144:19784:1030/160023.911:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 30, 2024 16:00:46.451 [8144:19784:1030/160046.451:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+10월 30, 2024 16:05:19.113 NEW SESSION
+10월 30, 2024 16:05:19.113 [22468:4420:1030/160519.110:ERROR:device_event_log_impl.cc(201)] [16:05:19.108] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+10월 30, 2024 16:05:19.217 Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 30, 2024 16:05:19.280 [22468:22040:1030/160519.279:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+10월 31, 2024 14:06:08.513 NEW SESSION
+10월 31, 2024 14:06:08.513 [13924:15532:1031/140608.511:ERROR:device_event_log_impl.cc(201)] [14:06:08.512] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+10월 31, 2024 14:06:08.619 Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 31, 2024 14:06:08.692 [13924:13156:1031/140608.692:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 31, 2024 14:06:38.744 [13924:13156:1031/140638.744:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 31, 2024 14:12:11.130 [18332:12564:1031/141211.130:ERROR:device_event_log_impl.cc(201)] [14:12:11.129] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+10월 31, 2024 14:12:11.233 Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 31, 2024 14:12:11.301 [18332:12680:1031/141211.301:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 31, 2024 14:12:34.774 [18332:12680:1031/141234.773:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 31, 2024 14:13:27.166 [18332:12680:1031/141327.166:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 31, 2024 14:15:01.432 [18332:12680:1031/141501.432:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 31, 2024 14:18:46.94 [18332:12680:1031/141846.094:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 31, 2024 14:22:29.769 [21476:21640:1031/142229.769:ERROR:device_event_log_impl.cc(201)] [14:22:29.769] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+10월 31, 2024 14:22:29.871 Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 31, 2024 14:22:29.943 [21476:14200:1031/142229.943:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 31, 2024 14:22:51.71 [21476:14200:1031/142251.070:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 31, 2024 14:23:50.586 [21476:14200:1031/142350.585:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 31, 2024 14:25:38.580 [21476:14200:1031/142538.580:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 31, 2024 14:28:25.204 [21476:14200:1031/142825.204:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+11월 04, 2024 16:49:23.157 NEW SESSION
+11월 04, 2024 16:49:23.157 [17616:12068:1104/164923.155:ERROR:device_event_log_impl.cc(201)] [16:49:23.156] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+11월 04, 2024 16:49:23.264 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 04, 2024 16:49:23.337 [17616:10192:1104/164923.337:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 04, 2024 16:49:47.532 [17616:10192:1104/164947.531:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 04, 2024 16:50:43.181 [17616:10192:1104/165043.181:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 04, 2024 16:52:04.650 [17616:10192:1104/165204.650:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 04, 2024 16:55:04.491 [17616:10192:1104/165504.491:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 04, 2024 16:59:28.841 [22520:11536:1104/165928.841:ERROR:device_event_log_impl.cc(201)] [16:59:28.841] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+11월 04, 2024 16:59:28.933 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 04, 2024 16:59:29.04 [22520:13300:1104/165929.004:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 04, 2024 16:59:39.265 [20876:15040:1104/165939.265:ERROR:device_event_log_impl.cc(201)] [16:59:39.265] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+11월 04, 2024 16:59:39.408 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 04, 2024 16:59:39.438 [20876:13176:1104/165939.438:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 04, 2024 17:00:04.149 [20876:13176:1104/170004.149:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 04, 2024 17:01:01.618 [20876:13176:1104/170101.618:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 04, 2024 17:02:30.697 [20876:13176:1104/170230.697:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 04, 2024 17:05:21.103 [20876:13176:1104/170521.103:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 04, 2024 17:11:47.394 [20876:13176:1104/171147.394:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+11월 07, 2024 16:45:48.725 NEW SESSION
+11월 07, 2024 16:45:48.725 [16852:14480:1107/164548.723:ERROR:device_event_log_impl.cc(201)] [16:45:48.722] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+11월 07, 2024 16:45:48.851 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 07, 2024 16:45:48.965 [16852:2676:1107/164548.965:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 07, 2024 16:46:16.699 [16852:2676:1107/164616.698:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 07, 2024 16:47:14.32 [16852:2676:1107/164714.031:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+11월 07, 2024 16:54:05.501 NEW SESSION
+11월 07, 2024 16:54:05.501 [13532:23248:1107/165405.500:ERROR:device_event_log_impl.cc(201)] [16:54:05.499] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+11월 07, 2024 16:54:05.621 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 07, 2024 16:54:05.677 [13532:18396:1107/165405.677:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 07, 2024 16:54:32.14 [13532:18396:1107/165432.014:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 07, 2024 16:55:24.292 [13532:18396:1107/165524.292:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 07, 2024 16:56:51.878 [13532:18396:1107/165651.878:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 07, 2024 16:59:53.956 [13532:18396:1107/165953.956:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 07, 2024 17:05:32.04 [13532:18396:1107/170532.004:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 07, 2024 17:31:44.186 [13532:23248:1107/173144.186:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:44.298 [13532:23248:1107/173144.297:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:44.482 [13532:23248:1107/173144.482:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:44.593 [13532:23248:1107/173144.593:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:44.770 [13532:23248:1107/173144.770:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:44.887 [13532:23248:1107/173144.887:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:45.00 [13532:23248:1107/173145.000:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:45.111 [13532:23248:1107/173145.111:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:45.446 [13532:23248:1107/173145.446:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:45.601 [13532:23248:1107/173145.601:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:45.829 [13532:23248:1107/173145.829:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:45.938 [13532:23248:1107/173145.938:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:46.92 [13532:23248:1107/173146.092:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:46.703 [13532:23248:1107/173146.703:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:49.263 [13532:23248:1107/173149.262:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:49.459 [13532:23248:1107/173149.459:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:49.579 [13532:23248:1107/173149.579:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:57.10 [13532:23248:1107/173157.009:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:57.118 [13532:23248:1107/173157.118:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:57.229 [13532:23248:1107/173157.228:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:57.945 [13532:23248:1107/173157.945:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:58.53 [13532:23248:1107/173158.053:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:58.176 [13532:23248:1107/173158.176:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:58.789 [13532:23248:1107/173158.789:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:58.909 [13532:23248:1107/173158.909:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:59.496 [13532:23248:1107/173159.494:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:59.604 [13532:23248:1107/173159.604:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:59.721 [13532:23248:1107/173159.721:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:31:59.943 [13532:23248:1107/173159.943:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:32:00.57 [13532:23248:1107/173200.057:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:32:00.545 [13532:23248:1107/173200.545:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:32:00.653 [13532:23248:1107/173200.653:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:32:00.780 [13532:23248:1107/173200.779:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:32:01.887 [13532:23248:1107/173201.887:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:32:02.10 [13532:23248:1107/173202.010:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:32:02.129 [13532:23248:1107/173202.129:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:32:05.262 [13532:23248:1107/173205.261:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:32:05.377 [13532:23248:1107/173205.377:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:32:05.812 [13532:23248:1107/173205.811:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:32:05.928 [13532:23248:1107/173205.927:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:32:06.40 [13532:23248:1107/173206.040:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:32:06.862 [13532:23248:1107/173206.862:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:32:06.970 [13532:23248:1107/173206.970:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:32:07.87 [13532:23248:1107/173207.087:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:32:07.462 [13532:23248:1107/173207.462:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:32:07.571 [13532:23248:1107/173207.571:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:32:07.695 [13532:23248:1107/173207.695:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:32:07.805 [13532:23248:1107/173207.805:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:32:08.09 [13532:23248:1107/173208.009:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:32:08.124 [13532:23248:1107/173208.124:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:32:08.246 [13532:23248:1107/173208.245:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+11월 07, 2024 17:32:09.21 [13532:23248:1107/173209.021:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.258 s for first_image_paint 0.253 s
+
+11월 08, 2024 15:50:46.99 NEW SESSION
+11월 08, 2024 15:50:46.99 [64728:57212:1108/155046.097:ERROR:device_event_log_impl.cc(201)] [15:50:46.097] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+11월 08, 2024 15:50:46.313 [64728:54152:1108/155046.312:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 08, 2024 15:50:46.744 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 08, 2024 15:51:16.311 [64728:54152:1108/155116.310:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 08, 2024 15:51:57.685 [64728:54152:1108/155157.685:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 08, 2024 15:53:47.919 [64728:54152:1108/155347.919:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 08, 2024 15:55:21.593 [64728:54152:1108/155521.593:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+11월 08, 2024 15:56:42.591 [64728:54152:1108/155642.591:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 08, 2024 16:03:01.302 [64728:54152:1108/160301.301:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+11월 14, 2024 14:23:43.986 NEW SESSION
+11월 14, 2024 14:23:43.986 [15444:5476:1114/142343.984:ERROR:device_event_log_impl.cc(201)] [14:23:43.984] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+11월 14, 2024 14:23:44.94 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 14, 2024 14:23:44.379 [15444:13236:1114/142344.379:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 14:24:09.676 [15444:13236:1114/142409.675:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 14:25:01.162 [15444:13236:1114/142501.161:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 14:26:41.83 [15444:13236:1114/142641.082:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 14:28:47.487 [15444:5476:1114/142847.487:ERROR:device_event_log_impl.cc(201)] [14:28:47.487] Bluetooth: bluetooth_adapter_winrt.cc:1055 Getting Default Adapter failed.
+11월 14, 2024 14:29:12.133 [15444:5476:1114/142912.133:ERROR:device_event_log_impl.cc(201)] [14:29:12.133] Bluetooth: bluetooth_adapter_winrt.cc:1055 Getting Default Adapter failed.
+11월 14, 2024 14:30:10.67 [15444:13236:1114/143010.067:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 14:37:06.741 [15444:13236:1114/143706.741:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 14:49:38.724 [15444:5476:1114/144938.724:ERROR:CONSOLE(1)] "Unknown VE context: Fetch 諛� XHR    at _r.addBit (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:10984)
+11월 14, 2024 14:49:38.725     at new _r (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:9730)
+11월 14, 2024 14:49:38.725     at new Fi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:203798)
+11월 14, 2024 14:49:38.725     at new Yi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:263255)
+11월 14, 2024 14:49:38.726     at Yi.instance (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:265650)
+11월 14, 2024 14:49:38.726     at RequestRevealer.reveal (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:279111)
+11월 14, 2024 14:49:38.726     at Zt.reveal (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49789)
+11월 14, 2024 14:49:38.726     at async Object.Yt [as reveal] (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49979)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 14, 2024 14:49:38.726 [15444:5476:1114/144938.724:ERROR:CONSOLE(1)] "Unknown VE context: 臾몄꽌    at _r.addBit (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:10984)
+11월 14, 2024 14:49:38.727     at new _r (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:9730)
+11월 14, 2024 14:49:38.727     at new Fi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:203798)
+11월 14, 2024 14:49:38.727     at new Yi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:263255)
+11월 14, 2024 14:49:38.727     at Yi.instance (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:265650)
+11월 14, 2024 14:49:38.727     at RequestRevealer.reveal (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:279111)
+11월 14, 2024 14:49:38.727     at Zt.reveal (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49789)
+11월 14, 2024 14:49:38.728     at async Object.Yt [as reveal] (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49979)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 14, 2024 14:49:38.728 [15444:5476:1114/144938.724:ERROR:CONSOLE(1)] "Unknown VE context: 湲�瑗�    at _r.addBit (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:10984)
+11월 14, 2024 14:49:38.728     at new _r (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:9730)
+11월 14, 2024 14:49:38.728     at new Fi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:203798)
+11월 14, 2024 14:49:38.729     at new Yi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:263255)
+11월 14, 2024 14:49:38.729     at Yi.instance (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:265650)
+11월 14, 2024 14:49:38.729     at RequestRevealer.reveal (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:279111)
+11월 14, 2024 14:49:38.729     at Zt.reveal (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49789)
+11월 14, 2024 14:49:38.729     at async Object.Yt [as reveal] (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49979)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 14, 2024 14:49:38.730 [15444:5476:1114/144938.724:ERROR:CONSOLE(1)] "Unknown VE context: �씠誘몄�    at _r.addBit (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:10984)
+11월 14, 2024 14:49:38.730     at new _r (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:9730)
+11월 14, 2024 14:49:38.730     at new Fi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:203798)
+11월 14, 2024 14:49:38.730     at new Yi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:263255)
+11월 14, 2024 14:49:38.730     at Yi.instance (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:265650)
+11월 14, 2024 14:49:38.731     at RequestRevealer.reveal (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:279111)
+11월 14, 2024 14:49:38.731     at Zt.reveal (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49789)
+11월 14, 2024 14:49:38.731     at async Object.Yt [as reveal] (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49979)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 14, 2024 14:49:38.731 [15444:5476:1114/144938.724:ERROR:CONSOLE(1)] "Unknown VE context: 誘몃뵒�뼱    at _r.addBit (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:10984)
+11월 14, 2024 14:49:38.731     at new _r (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:9730)
+11월 14, 2024 14:49:38.731     at new Fi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:203798)
+11월 14, 2024 14:49:38.732     at new Yi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:263255)
+11월 14, 2024 14:49:38.732     at Yi.instance (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:265650)
+11월 14, 2024 14:49:38.732     at RequestRevealer.reveal (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:279111)
+11월 14, 2024 14:49:38.732     at Zt.reveal (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49789)
+11월 14, 2024 14:49:38.733     at async Object.Yt [as reveal] (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49979)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 14, 2024 14:49:38.733 [15444:5476:1114/144938.724:ERROR:CONSOLE(1)] "Unknown VE context: 留ㅻ땲�럹�뒪�듃    at _r.addBit (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:10984)
+11월 14, 2024 14:49:38.733     at new _r (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:9730)
+11월 14, 2024 14:49:38.733     at new Fi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:203798)
+11월 14, 2024 14:49:38.733     at new Yi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:263255)
+11월 14, 2024 14:49:38.734     at Yi.instance (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:265650)
+11월 14, 2024 14:49:38.734     at RequestRevealer.reveal (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:279111)
+11월 14, 2024 14:49:38.734     at Zt.reveal (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49789)
+11월 14, 2024 14:49:38.734     at async Object.Yt [as reveal] (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49979)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 14, 2024 14:49:38.735 [15444:5476:1114/144938.728:ERROR:CONSOLE(1)] "Unknown VE context: 湲고�    at _r.addBit (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:10984)
+11월 14, 2024 14:49:38.735     at new _r (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:9730)
+11월 14, 2024 14:49:38.735     at new Fi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:203798)
+11월 14, 2024 14:49:38.735     at new Yi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:263255)
+11월 14, 2024 14:49:38.736     at Yi.instance (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:265650)
+11월 14, 2024 14:49:38.736     at RequestRevealer.reveal (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:279111)
+11월 14, 2024 14:49:38.736     at Zt.reveal (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49789)
+11월 14, 2024 14:49:38.736     at async Object.Yt [as reveal] (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49979)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 14, 2024 14:49:39.262 [15444:5476:1114/144939.262:ERROR:CONSOLE(1)] "Unknown VE context: Fetch諛뢝HR    at a (devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js:1:64099)
+11월 14, 2024 14:49:39.263     at e.Me (devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js:1:81107)
+11월 14, 2024 14:49:39.263     at devtools://devtools/bundled/devtools-frontend/front_end/ui/components/render_coordinator/render_coordinator.js:1:150", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 14, 2024 15:02:47.56 [15444:5476:1114/150247.056:ERROR:CONSOLE(1)] "Unknown VE context: Fetch 諛� XHR    at _r.addBit (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:10984)
+11월 14, 2024 15:02:47.56     at new _r (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:9730)
+11월 14, 2024 15:02:47.56     at new Fi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:203798)
+11월 14, 2024 15:02:47.57     at new Yi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:263255)
+11월 14, 2024 15:02:47.57     at Yi.instance (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:265650)
+11월 14, 2024 15:02:47.57     at RequestRevealer.reveal (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:279111)
+11월 14, 2024 15:02:47.57     at Zt.reveal (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49789)
+11월 14, 2024 15:02:47.57     at async Object.Yt [as reveal] (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49979)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 14, 2024 15:02:47.57 [15444:5476:1114/150247.056:ERROR:CONSOLE(1)] "Unknown VE context: 臾몄꽌    at _r.addBit (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:10984)
+11월 14, 2024 15:02:47.58     at new _r (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:9730)
+11월 14, 2024 15:02:47.58     at new Fi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:203798)
+11월 14, 2024 15:02:47.58     at new Yi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:263255)
+11월 14, 2024 15:02:47.58     at Yi.instance (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:265650)
+11월 14, 2024 15:02:47.58     at RequestRevealer.reveal (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:279111)
+11월 14, 2024 15:02:47.59     at Zt.reveal (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49789)
+11월 14, 2024 15:02:47.59     at async Object.Yt [as reveal] (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49979)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 14, 2024 15:02:47.59 [15444:5476:1114/150247.056:ERROR:CONSOLE(1)] "Unknown VE context: 湲�瑗�    at _r.addBit (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:10984)
+11월 14, 2024 15:02:47.59     at new _r (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:9730)
+11월 14, 2024 15:02:47.59     at new Fi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:203798)
+11월 14, 2024 15:02:47.60     at new Yi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:263255)
+11월 14, 2024 15:02:47.60     at Yi.instance (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:265650)
+11월 14, 2024 15:02:47.60     at RequestRevealer.reveal (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:279111)
+11월 14, 2024 15:02:47.60     at Zt.reveal (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49789)
+11월 14, 2024 15:02:47.60     at async Object.Yt [as reveal] (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49979)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 14, 2024 15:02:47.61 [15444:5476:1114/150247.056:ERROR:CONSOLE(1)] "Unknown VE context: �씠誘몄�    at _r.addBit (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:10984)
+11월 14, 2024 15:02:47.61     at new _r (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:9730)
+11월 14, 2024 15:02:47.61     at new Fi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:203798)
+11월 14, 2024 15:02:47.61     at new Yi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:263255)
+11월 14, 2024 15:02:47.62     at Yi.instance (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:265650)
+11월 14, 2024 15:02:47.62     at RequestRevealer.reveal (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:279111)
+11월 14, 2024 15:02:47.62     at Zt.reveal (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49789)
+11월 14, 2024 15:02:47.62     at async Object.Yt [as reveal] (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49979)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 14, 2024 15:02:47.62 [15444:5476:1114/150247.056:ERROR:CONSOLE(1)] "Unknown VE context: 誘몃뵒�뼱    at _r.addBit (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:10984)
+11월 14, 2024 15:02:47.62     at new _r (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:9730)
+11월 14, 2024 15:02:47.63     at new Fi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:203798)
+11월 14, 2024 15:02:47.63     at new Yi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:263255)
+11월 14, 2024 15:02:47.63     at Yi.instance (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:265650)
+11월 14, 2024 15:02:47.63     at RequestRevealer.reveal (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:279111)
+11월 14, 2024 15:02:47.64     at Zt.reveal (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49789)
+11월 14, 2024 15:02:47.64     at async Object.Yt [as reveal] (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49979)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 14, 2024 15:02:47.64 [15444:5476:1114/150247.056:ERROR:CONSOLE(1)] "Unknown VE context: 留ㅻ땲�럹�뒪�듃    at _r.addBit (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:10984)
+11월 14, 2024 15:02:47.64     at new _r (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:9730)
+11월 14, 2024 15:02:47.64     at new Fi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:203798)
+11월 14, 2024 15:02:47.65     at new Yi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:263255)
+11월 14, 2024 15:02:47.65     at Yi.instance (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:265650)
+11월 14, 2024 15:02:47.65     at RequestRevealer.reveal (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:279111)
+11월 14, 2024 15:02:47.65     at Zt.reveal (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49789)
+11월 14, 2024 15:02:47.65     at async Object.Yt [as reveal] (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49979)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 14, 2024 15:02:47.65 [15444:5476:1114/150247.059:ERROR:CONSOLE(1)] "Unknown VE context: 湲고�    at _r.addBit (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:10984)
+11월 14, 2024 15:02:47.66     at new _r (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:3:9730)
+11월 14, 2024 15:02:47.66     at new Fi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:203798)
+11월 14, 2024 15:02:47.66     at new Yi (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:263255)
+11월 14, 2024 15:02:47.66     at Yi.instance (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:265650)
+11월 14, 2024 15:02:47.66     at RequestRevealer.reveal (devtools://devtools/bundled/devtools-frontend/front_end/panels/network/network.js:1:279111)
+11월 14, 2024 15:02:47.66     at Zt.reveal (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49789)
+11월 14, 2024 15:02:47.67     at async Object.Yt [as reveal] (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:49979)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 14, 2024 15:02:47.433 [15444:5476:1114/150247.433:ERROR:CONSOLE(1)] "Unknown VE context: Fetch諛뢝HR    at a (devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js:1:64099)
+11월 14, 2024 15:02:47.434     at e.Me (devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js:1:81107)
+11월 14, 2024 15:02:47.434     at devtools://devtools/bundled/devtools-frontend/front_end/ui/components/render_coordinator/render_coordinator.js:1:150", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 14, 2024 15:10:06.583 [16336:13480:1114/151006.583:ERROR:device_event_log_impl.cc(201)] [15:10:06.583] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+11월 14, 2024 15:10:06.728 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 14, 2024 15:10:06.814 [16336:18120:1114/151006.814:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 15:10:35.626 [16336:18120:1114/151035.626:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 15:11:34.723 [16336:18120:1114/151134.723:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 15:13:20.419 [16336:18120:1114/151320.418:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 15:16:38.894 [16336:18120:1114/151638.894:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 15:22:56.101 [16336:18120:1114/152256.101:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+12월 09, 2024 15:58:00.417 NEW SESSION
+12월 09, 2024 15:58:00.417 [4828:23784:1209/155800.415:ERROR:device_event_log_impl.cc(201)] [15:58:00.415] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+12월 09, 2024 15:58:00.673 Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 09, 2024 15:58:00.693 [4828:32784:1209/155800.692:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+12월 09, 2024 15:58:27.596 [4828:32784:1209/155827.595:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+12월 09, 2024 15:59:10.520 [4828:32784:1209/155910.519:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+12월 09, 2024 16:03:48.100 [12184:5376:1209/160348.100:ERROR:device_event_log_impl.cc(201)] [16:03:48.100] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+12월 09, 2024 16:03:48.411 [12184:16492:1209/160348.411:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+12월 09, 2024 16:03:48.661 Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 09, 2024 16:04:09.382 [12184:16492:1209/160409.380:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+12월 09, 2024 16:05:08.964 [12184:16492:1209/160508.964:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+12월 09, 2024 16:06:34.33 [12184:16492:1209/160634.032:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+12월 09, 2024 16:10:29.966 [12184:16492:1209/161029.965:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+12월 09, 2024 16:18:09.95 [12184:16492:1209/161809.095:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+12월 13, 2024 16:10:24.847 NEW SESSION
+12월 13, 2024 16:10:24.847 [16292:9436:1213/161024.845:ERROR:device_event_log_impl.cc(201)] [16:10:24.845] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+12월 13, 2024 16:10:25.57 [16292:20804:1213/161025.056:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+12월 13, 2024 16:10:25.65 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+12월 13, 2024 16:14:01.287 NEW SESSION
+12월 13, 2024 16:14:01.287 [5040:16524:1213/161401.285:ERROR:device_event_log_impl.cc(201)] [16:14:01.286] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+12월 13, 2024 16:14:01.473 Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 13, 2024 16:14:01.476 [5040:15476:1213/161401.476:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+12월 13, 2024 16:14:25.945 [5040:15476:1213/161425.945:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+12월 13, 2024 16:15:11.951 [5040:15476:1213/161511.950:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT

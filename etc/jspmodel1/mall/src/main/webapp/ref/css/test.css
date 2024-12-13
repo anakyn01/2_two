@@ -1,0 +1,64 @@
+@font-face {
+  font-family: "HSSanTokki20-Regular";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/2405@1.0/HSSanTokki20-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+html, html * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.btn-basic, html body .a, html body .b, html body .c {
+  border: none;
+  padding: 15px 30px;
+}
+
+html body {
+  font-family: "HSSanTokki20-Regular", Helvetica, sans-serif;
+  font-size: 18px;
+  color: violet;
+}
+html body h1, html body h2, html body h3, html body h4, html body h5, html body p, html body pre {
+  font-family: "HSSanTokki20-Regular", Helvetica, sans-serif;
+  color: #4169E1;
+}
+html body button {
+  background-color: rgb(27, 70, 227);
+  font-size: 1rem;
+  padding: 10px 15px;
+  border: 0px solid black;
+  border-radius: 0.8rem;
+  color: white;
+}
+html body .a, html body .b, html body .c {
+  color: white;
+}
+html body .a {
+  background: red;
+}
+html body .b {
+  background: green;
+}
+html body .c {
+  background: hotpink;
+}
+html body #container {
+  width: 800px;
+}
+html body nav {
+  width: 100%;
+  background: blue;
+}
+html body nav ul {
+  display: flex;
+}
+html body nav ul li {
+  padding: 0px 15px;
+  list-style-type: none;
+}
+html body nav ul li a {
+  color: inherit;
+  text-decoration: none;
+}/*# sourceMappingURL=test.css.map */

@@ -1,0 +1,15 @@
+C:\dev\legacy\model2\spring-mvc-v2\src\main\java\v2\mvc\spring\service\CommentService.java
+C:\dev\legacy\model2\spring-mvc-v2\src\main\java\v2\mvc\spring\vo\CommentAddRequestVO.java
+C:\dev\legacy\model2\spring-mvc-v2\src\main\java\v2\mvc\spring\vo\CommentInsertVO.java
+C:\dev\legacy\model2\spring-mvc-v2\src\main\java\v2\mvc\spring\vo\BlogListResponseVO.java
+C:\dev\legacy\model2\spring-mvc-v2\src\main\java\v2\mvc\spring\dao\BlogDAO.java
+C:\dev\legacy\model2\spring-mvc-v2\src\main\java\v2\mvc\spring\service\BlogService.java
+C:\dev\legacy\model2\spring-mvc-v2\src\main\java\v2\mvc\spring\mapper\BlogMapper.java
+C:\dev\legacy\model2\spring-mvc-v2\src\main\java\v2\mvc\spring\controller\CommentController.java
+C:\dev\legacy\model2\spring-mvc-v2\src\main\java\v2\mvc\spring\mapper\CommentMapper.java
+C:\dev\legacy\model2\spring-mvc-v2\src\main\java\v2\mvc\spring\vo\BlogListRequestVO.java
+C:\dev\legacy\model2\spring-mvc-v2\src\main\java\v2\mvc\spring\controller\BlogController.java
+C:\dev\legacy\model2\spring-mvc-v2\src\main\java\v2\mvc\spring\service\impl\CommentServiceImpl.java
+C:\dev\legacy\model2\spring-mvc-v2\src\main\java\v2\mvc\spring\vo\CommentResponseVO.java
+C:\dev\legacy\model2\spring-mvc-v2\src\main\java\v2\mvc\spring\vo\BlogEditRequestVO.java
+C:\dev\legacy\model2\spring-mvc-v2\src\main\java\v2\mvc\spring\service\impl\BlogServiceImpl.java

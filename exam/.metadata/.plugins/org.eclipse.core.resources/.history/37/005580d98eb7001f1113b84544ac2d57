@@ -1,0 +1,13 @@
+package cbq_1;
+
+import java.util.Date;
+
+public class InOut {
+
+	private String t_no;
+	private String p_code;
+	private String t_type;
+	private int t_cnt;
+	private Date t_date;
+	private String c_code;
+}

@@ -1,0 +1,5 @@
+package com.md.shop.domain;
+
+public class GoodsViewVO {
+
+}

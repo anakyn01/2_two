@@ -1,0 +1,19 @@
+package cbq_1;
+
+import java.sql.Connection;
+import java.sql.ResultSet;
+
+public class AllDao {
+
+	private Connection conn;
+	private ResultSet rs;
+	
+	public AllDao() {
+		try {
+			
+		}catch(Exception e) {
+			e.printStackTrace();
+		}
+	}
+}
+

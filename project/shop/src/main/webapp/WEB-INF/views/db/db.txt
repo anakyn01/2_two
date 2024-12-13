@@ -1,0 +1,39 @@
+alter session set "_ORACLE_SCRIPT" = true;
+create user "PORT_FOLIO_USR" identified by "1234";
+grant connect to "PORT_FOLIO_USR";
+grant resource to "PORT_FOLIO_USR";
+alter user PORT_FOLIO_USR default tablespace users quota unlimited on users;
+
+create table tbl_member(
+userId varchar2(50) not null primary key,
+userPass varchar2(100) not null,
+userName varchar2(100) not null,
+userPhone varchar2(100) not null,
+userAddr1 varchar2(100) not null,
+userAddr2 varchar2(100) not null,
+userAddr3 varchar2(100) not null,
+regdate date default sysdate,
+verify number default 0
+);
+
+create table tbl_goods(
+gdsNum number not null primary key,
+gdsName varchar2(50) not null,
+cateCode varchar2(30) not null,
+gdsPrice number not null,
+gdsStock number null,
+gdsDes varchar(500) null,
+gdsImg varchar(200) null,
+gdsDate date default sysdate
+);
+
+varchar(바이트를 기준) varchar2 차이 숫자2의 차이이자 varchar는 나중에 없어질수 있다
+nvarchar(글자수를 기준), 
+javadoc jdk설치되어 잇다면 소스코드의 코드 문서를 생성하는데 도움을 주는 도구
+
+
+
+
+
+
+

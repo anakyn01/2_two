@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>javascript:set maps</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+<script defer src="https://pyscript.net/latest/pyscript.js">
+</script>
+</head>
+<body>
+<div w3-include-html="../include/header.html"></div>
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-6">
+<h1>Set</h1>
+<pre>
+- 세트는 고유한 값의 모음입니다 java HashSet
+- 각 값은 세트에서 한번만 나타날수 있습니다
+= 세트를 만드는 방법
+new Set()
+빈세트를 생성하고 add()값을 추가하는데 사용
+</pre>
+<p id="set"></p>
+<script src="../js/set.js"></script>
+</div>
+<div class="col-md-3">
+<h1>python 4대 컬렉션</h1>
+<pre>
+단일 변수에 여러항목을 저장합니다
+- list : 순서가 지정되고 변경이 가능하며 중복값을 허용
+len(), type(), list(리스트가 아닌 녀석을 리스트)
+array를 파이선에서 대체하여 사용
+필히 array를 사용하려면 Numpy를 설치하여 가져옴
+- tuple : 순서가 지정되고 변경할수 없는 컬렉션 중복을 허용
+- set : 순서가 없고 변경할수 없고 색인이 생성되지 않음
+중복을 허용하지 않음
+- dictionary : 키 : 값 저장하는데 사용
+순서가 지정되고 변경가능하며 중복을 허용하지 않음
+</pre>
+<py-script>
+mylist = ["apple","banana","cherry"]
+print(mylist)
+#size
+print(len(mylist))
+#무엇인지 확인
+print(type(mylist))
+#Access Item
+print(mylist[1])
+#네거티브 인덱싱 -1끝부터 시작 -2
+print(mylist[-2])
+#start포함 last미포함 주이 0부터 시작
+nums = [1,2,3,4,5]
+print(nums[1:4]);
+JavaScript = '''
+javascript,
+react,
+vue,
+nodejs,
+nextjs,
+아우르는 페런츠가
+Java(C,C#,C++)
+'''
+print(JavaScript)
+
+
+</py-script>
+</div>
+<div class="col-md-3">
+<h1>소프트웨어 생명주기</h1>
+<pre>
+- 폭포수 모형 :
+이전단계로 돌아갈수 없다, 각단계를 확실히 매듭지음, 결과를 철저히 검토하여 승인과정을 거친
+후 다음 단계로 진행하는 개발 방법론
+소프트웨어 공학에서 가장오래됨 
+한과정이 끝나야함 
+입찰 ->  미팅 -> 시스템기획 -> ui/ux디자인 -> 마크업 개발 -> 백앤드 개발 -> 디버깅 -> 배포
+
+- 프로토타입모형, 원형 모형
+사용자의 요구사항을 정확하게 하기 위해 실제 개발될 소프트웨어에 대한 견본품(최종 결과 예측)
+시제품(프로토타입)을 사용하여 사용자와 시스템 사이의 인터페이스를 중점을 두어 개발한다
+시스템 일부 모형을 만드는 과정으로 요구된 소프트웨어를 구현하는데
+이는 추후 구현단계에서 사용될 골격 코드가 된다
+SW의 개발이 완료된 시점에서 오류가 발생하는 폭포수 모형에 단점을 보완하기위한 모형
+
+- 나선형 모형, 점진적모형 
+여러번의 SW개발 과정으 ㄹ거쳐서 점진적으로 완벽한 최종 SW개발
+- 애자일 모형 Agile model
+고객의 요구사항 변화에 유연하게 대응할수 있도록 일정한 주기를 반복하면서 개발 과정 진행
+
+XP(extreme Programming)의 5가지 핵심 원칙
+1. 의사소통 (Communication)
+2. 단순성 (Simplicity)
+3. 용기 (Courage)
+4. 존중 (Respect)
+5. 피드백(FeedBack)
+
+DBMS(Database Management System) : 데이터베이스를 조작하는 별도의 소프트웨어
+RDBMS(Relatinal Database Management System) : 관계형데이터 베이스를 생성하고 수정하고 관리하는 데이터 베이스
+
+DBMS(데이터베이스 관리 시스템) 분석시(요구사항 식별시) 고려사항
+1. 가용성
+2. 성능
+3. 기술 지원
+4. 상호 호환성
+5. 구축 비용
+
+요구사항 정의 – 개발 프로세스
+요구사항 도출 (Elication, 요구사항 수집, Requirement Elicitation) 
+- 시스템, 사용자, 시스템 개발에 관련된 사람들이 서로 의견을 교환하여, 요구사항이 어디에 있는지,
+어떻게 수집할 것인지 식별하고 이해하는 과정
+- 소프트웨어가 해결해야할 문제를 이해하는 첫 단계
+- 개발자와 고객 사이의 관계 만들어짐, 이해관계자(Stakeholder) 식별
+- 이해관계자 간의 의사소통 중요
+- 소프트웨어 개발 생명주기(SDLC, software Development Life Cycle)동안 지속적으로 반복
+- 도출 주요 기법 – 인터뷰, 설문, 브레인스토밍, 워크샵, 프로토타이핑, 유스케이스
+
+요구사항 분석(Analysis) 
+요구사항 중, 명확하지 않거나 모호, 이해되지 않는 부분 발견 및 걸러내는 과정
+◼ 사용자 요구사항의 타당성 조사, 비용 일정에 대한 제약 설정
+◼ 서로 상충되는(내용 중복, 하나로 통합) 요구사항 있을 때 해결
+◼ 도출된 요구사항을 토대로 sw의 범위 파악, sw와 주변 환경이 상호작용하는 방법 이해
+◼ 요구사항 정의 문서화 => 안하면 네버엔딩스토리
+명세(Specification) => 그래서 기능명세서를 씀
+확인(Validation)
+
+UML(Unified Modeling Language)
+- 시스템 개발과정에서 의사소통이 원활하도록 표준화한 객체지향 모델링 언어
+- 구성요소
+사물(Things), 
+- 구조 사물(Structural Things): 시스템의 개념적, 물리적 요소 표현
+Class, Use case, Component, Node
+
+- 행동 사물(Behavioral Things): 시간과 공간에 따른 요소들의 행위 표현
+Interaction(상호작용), State Machine(상태머신)
+
+- 그룹 사물(Grouping Things): 요소들을 그룹으로 묶어서 표현
+Package
+- 주해 사물(Annotation Things): 부가적인 설명이나 제약조건 표현
+Note
+
+관계(Relationships), 
+
+연관관계(Association) : 2개 이상의 사물이 서로 관련됨,물 사이를 실선으로, 방향성은 화살표로 표현, 양방향의 경우, 화살표 생략 실선으로만 연결
+연관에 참여하는 객체수(다중도)를 선위에 표현
+
+집합관계(Aggregation) : 하나의 사물이 다른 사물에 포함되어있는 관계
+
+포함관계(Composition) : 집합관계의 특수한 형태, 포함하는 사물의 변화가 포함되는 사물에게 영향을 미치는 관계를 표현
+
+일반화 관계(Generalization): 하나의 사물이 다른 사물에 비해 더 일반적인지, 구체적인지 표현
+
+의존 관계(Dependency) : 사물 사이에 서로 연관은 있으나, 필요에 의해 서로에게 영향을 주는, 짧은 시간 동안만 연관을 유지하는 관계
+
+실체화 관계(Realization) : 사물이 할 수 있거나, 해야하는 기능(행위, 인터페이스)으로 서로를 그룹화 할 수 있는 관계 표현
+
+다이어그램(diagram) : 사물과 관계를 도형으로 표현 여러 관점에서 시스템을 가시화한 뷰를 제공함으로써 의사소통에 도움을 줌
+Class Diagram :
+- 클래스와 클래스가 가지는 속성, 클래스 사이의 관계 표현
+- 시스템의 구조 파악, 구조상의 문제점 도출
+
+Object Diagram :
+- 클래스에 속한 사물(객체)들 = 인스턴스(instance)를 특정 시점의 객체와 객체 사이의 관계로 표현
+
+
+Component Diagram :
+- 실제 구현 모듈인 컴포넌트 간의 관계나 컴포넌트 간의 인터페이스를 표현
+Deployment Diagram:
+- 물리적요소(결과물, 프로세스, 컴포넌트)들의 위치를 표현
+- 노드와 의사소통(통신)경로로 표현
+
+Composite Structure Diagram :
+- 클래스나 컴포넌트가 복합 구조를 갖는 경우, 그 내부 구조를 표현
+
+Package Diagram :
+유스케이스나 클래스 등의 모델 요소들을 그룹화한 패키지들의 관계를 표현
+
+Use Case Diagram :
+- 사용자의 요구를 분석하는 것으로, 기능 모델링 작업에 사용
+- 사용자(Actor)과 사용사례(use case)로 구성
+- 사용 사례 간에는 여러 형태의 관계로 이뤄짐
+
+Sequence Diagram : - 상호 작용하는 시스템이나 객체들이 주고받는 메시지 표현 생명선, 실행, 메시지
+
+Communication Diagram : 동작에 참여하는 객체들이 주고받는 메시지를 표현하는데, 메시지 뿐만
+아니라 객체들 간의 연관까지 표현
+
+State Diagram :
+하나의 객체가 자신이 속한 클래스의 상태 변화 or 다른 객체와의 상호
+작용에 따라 상태가 어떻게 변화하는지 표현
+
+Active Diagram : 
+시스템이 어떤 기능을 수행하는지 객체의 처리 로직이나 조건에 따른
+처리의 흐름을 순서에 따라 표현한다
+
+Interaction Overview Diagram :
+- 상호작용 다이어그램 간의 제어흐름 표현
+
+Timing Diagram :
+- 객체 상태 변화와 시간 제약을 명시적으로 표현
+
+사용자인터페이스(UI) 설계 원칙, 기본원칙
+1. 직관성 : 누구나 쉽게 이해하고, 사용
+2. 유효성 : 사용자의 목적을 정확하고, 완벽하게 달성
+3. 학습성 : 누구나 쉽게 배우고 익힐 수 있어야함
+4. 유연성 : 사용자의 요구사항을 최대한 수용하고 실수 최소화
+
+</pre>
+</div>
+<div class="col-md-3">
+</div>
+</div>
+</div>
+
+<script src="../js/include.js"></script>
+<script>
+includeHTML();
+</script>
+
+
+</body>
+</html>

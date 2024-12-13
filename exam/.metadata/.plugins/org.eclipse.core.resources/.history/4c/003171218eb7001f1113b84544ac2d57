@@ -1,0 +1,10 @@
+package cbq_1;
+
+public class Product {
+
+	private String p_code;
+	private String p_name;
+	private int p_size; 
+	private int p_incost;
+	private int p_outcost;
+}

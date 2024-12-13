@@ -1,0 +1,20 @@
+package cbq_1;
+
+import java.sql.Connection;
+import java.sql.ResultSet;
+
+public class AllDao {
+
+	private Connection conn;
+	private ResultSet rs;
+	
+	public AllDao() {
+		try {
+			String dbURL = "jdbc:oracle:thin:@localhost:1521/xe";
+			String dbID = "system"
+		}catch(Exception e) {
+			e.printStackTrace();
+		}
+	}
+}
+

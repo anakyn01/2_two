@@ -1,0 +1,12 @@
+create table TB_BOARD (
+bno number not null primary key,
+title varchar2(256) not null,
+content nclob not null,
+writer varchar2(10) not null,
+regDate date default sysdate not null,
+viewCnt number(30)
+);
+create sequence seq_bno;
+
+insert into TB_BOARD (bno, title, content, writer) values (seq_bno.nextval, '가영이는','입이','무겁다');
+select * from TB_BOARD;

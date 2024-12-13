@@ -1,0 +1,10 @@
+create table TB_BLG_CONT(
+BLG_CONT_SEQ number not null primary key,
+TITLE NVARCHAR2(256) not null,
+CONT_BDY NCLOB not null,
+INSERT_DT date default sysdate not null
+)
+create sequence SEQ_BLG_CONT;
+
+insert into TB_BLG_CONT (BLG_CONT_SEQ, TITLE, CONT_BDY)
+values (SEQ_BLG_CONT.nextval, 'hello', 'this is content body');

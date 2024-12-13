@@ -1,0 +1,29 @@
+html, html * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "GmarketSansMedium";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+html body .titleShot {
+  width: 85% !important;
+  text-overflow: ellipsis !important;
+  overflow: hidden !important;
+  white-space: nowrap !important;
+}
+html body h1, html body h2, html body h3, html body h4, html body h5, html body p, html body pre {
+  font-family: "GmarketSansMedium";
+  font-weight: 100;
+  font-style: normal;
+}
+html body .rectSizeOne {
+  width: 290px !important;
+  max-width: 100% !important;
+  height: 290px !important;
+  overflow: hidden !important;
+}/*# sourceMappingURL=style.css.map */
