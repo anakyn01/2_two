@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>0603오늘의 학습</title>
+</head>
+<body>
+<pre>
+1) var와 let, const에 다른점을 하나씩만 서술하세요
+var = 재선언 재할당 허용 단점은 프로그래밍에 혼란을 초래할수 있음
+let = 재선언 재할당 금지 2015년 es6에서 추가
+const = 상수 (바뀔수 없는 참조만 가능한 것) 재선언 재할당 금지 2015년 es6에서 추가
+2) 할당연산자에 대해서 서술하세요
+변수에 값을 넣어주는 =  
+3) ==과 ===에 대해서 서술하세요
+비교연산자 타입을 고려하지 않은 같음 ==, 타입을 고려해서 같음 ===
+x = 5 x=='5' true, x=== 5(타입까지 같아야 합니다)
+4) 원시값이란 무엇인가요?
+더이상 단순화 될수 없는 값 원시자료형 예를 들어 숫자7, 참, 거짓, 문자
+
+5) 버튼이벤트 함수를 이용해서 시간이 화면에 출력될수 있게 해주세요
+<button onclick="time">누르면 시간</button>
+<p id="today"></p>
+<script>
+document.getElementById("time").innerHTML = Date;
+</script>
+6) 화살표 함수를 사용해서 매개변수로 5 * 10을 출력해주세요
+7) new Object를 사용해서 객체생성후 내 나이 이름을 출력
+8) (논리연산자) ||,&&,  var++
+<h1>뉴옵젝트</h1>
+<script>
+const Object = {age, name};
+age = 25;
+name = "지훈";
+
+Object= "제 나이는" + age +"이고" + "이름은" + name + "입니다" ;
+</script>
+
+<script>
+zxc = (x, y) => (5 * 10);
+</script>
+</pre>
+<button onclick="what()">함수는 호출할때만 실행되는 코드블록</button>
+<p id="findtime"></p>
+<script>
+function what(){ //코드블록안에 수식을 사용
+//아이디 찾기
+//시간 객체 넣기
+document.getElementById("findtime").innerHTML = Date()
+}
+</script>
+<h1>화살표함수 출력</h1>
+<script>
+y = (y, z) => y * z;
+let q = y(5, 10)
+document.write(q)
+</script>
+<h1>객체(new Object)로 이름 나이 출력</h1>
+<script>
+const myname = new Object();
+myname.firstname = "지훈"
+myname.lastname = "황"
+myname.age = 25
+document.write(
+" 내 이름은 " + myname.lastname + myname.firstname + 
+"이고 나이는 " + myname.age + 
+"입니다"
+)
+</script>
+</body>
+</html>

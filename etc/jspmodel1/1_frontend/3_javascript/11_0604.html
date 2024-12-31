@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>0604</title>
+</head>
+<body>
+<pre>
+1) 지수화로 12300000에 결과 값이 나오도록
+2) 문자를 더해서 30020 숫자를 만들어 주세요
+3) 임의의 수를 빅인트로 18자리 숫자를 표기해 주세요
+4) 최대 안전정수와 최소 안전정수를 표기해주세요
+</pre>
+<script>
+//1번
+let q = 123e5;
+//2번
+let a = "30"; let b = "020";
+let c = a + b;
+//3번
+let big = 1242414215454262454252334n;
+let f = BigInt("12345431435563452243");
+//4번
+let max = Number.MAX_SAFE_INTEGER;
+let min = Number.MIN_SAFE_INTEGER;
+//
+let h = 2;
+let l = "";
+while (h != Infinity){
+h = h * h; 
+l = l + h + "<br>";
+}
+document.write(
+"1번= " + q + "<br>" +    
+"2번= " + c + "<br>" +
+"3번= " + big + "<br>" + f + "<br>" +
+"4번= " + max + "<br>" + min + "<br>" +
+"연습= " + "<br>" + l 
+)
+</script>
+</body>
+</html>

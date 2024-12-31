@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="코세아, html, css, java">
+    <meta name="author" content="채종환">
+    <meta name="description" content="java spring 배우는 곳">
+    <link rel="stylesheet" href="css/ref.css">
+    <title>html h ~ z</title>
+</head>
+<body>
+    <h1>H</h1>
+<pre>
+h1 ~ h6 : 제목태그 숫자1이 가장크고 6이 가장작음
+head : html문서에서 메타데이터(데이터에 관한 데이터)영역을 표현할때 
+메타데이터는 일반적으로 css, 부트스트랩 cdn, javascript링크 및 기타 메타정보를
+정의합니다
+header : 소개 콘텐츠 또는 탐색 링크 집합에 대한 컨테이너를 나타냅니다
+hgroup : 제목과 단락이 관련되어 있음을 표기할때 사용되는 태그
+hr : 문서의 구분 테두리 css에서 테두리를 지우고 배경 색상값으로 제정의 한다
+html : html문서의 최상위 root
+문서에 반듯이 존재해야 함
+파일에 중복이 많을때 헤더,푸터는 include 파일로 만들어 불러온다
+header <html><head></head><body>
+바뀌는 콘텐츠 
+<section>
+내용만 바뀐다
+</section>,
+footer</body></html>
+</pre>
+
+<h1>header</h1>
+<header>
+    <a href="#">one</a>
+    <a href="#">two</a>
+    <a href="#">three</a>
+</header>
+<h2>article의 헤더</h2>
+<article>
+    <header>
+    <h1>A heading here</h1>
+    <p>Posted by Hwang</p>
+    <p>some additianal..</p>
+    </header>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+</article>
+
+<hr>
+
+<h1>제목과 단락의 그룹화 태그</h1>
+<hgroup>
+    <h2>Norway</h2>
+    <p>The land with the midnight sun.</p>
+</hgroup>
+
+<h1>I</h1>
+<pre>
+- i : 글자기울어짐 태그 
+폰트어썸에서 아이콘을 표현할때 i태그를 사용
+- iframe : 안쪽으로 자리 잡는 프레임
+다른내용을 빌려올때 예시 유튜브
+- img : 이미지를 표현하는 태그
+- input : 입력용 태그
+- ins : del태그와 함께 사용되며 새롭게 추가될때
+</pre>
+
+<h1>input => 입력</h1>
+<input type="text" placeholder="텍스트를 입력하세요">
+<input type="submit" value="전송">
+    
+<h1>K</h1>
+<pre>
+- kbd : 키보드 입력을 정의하는데 사용합니다
+</pre>
+<p>Press <kbd>Ctrl</kbd><kbd>+</kbd><kbd>C</kbd>to copy text windows</p>
+
+<h1>1</h1>
+<pre>
+- label : 여러 요소에 대한 레이블을 정의합니다
+- legend : 그 파트에 대한 제목의 역할
+- li : ol, ul에 목록항목을 정의합니다
+- link : 현재 문서와 외부 리소스 간의 관계를 정의합니다
+예를 들어 스타일시트, 자바스크립트, 라이브러리 등
+</pre>
+
+<h1>label : 여러요소에서 레이블을 정의</h1>
+<h2>fm : 권고사항 모든 입력창 설명에 라벨을 사용하세요</h2>
+<p>
+    <label for="">이름</label><input type="text" placeholder="이름을 적어주세요">
+</p>
+<p>
+    이름 : <input type="text" placeholder="이름을 적어주세요">
+</p>
+
+<h1>list의 종류</h1>
+<ol start="50">
+    <li>숫자의 리스트</li>
+    <li></li>
+</ol>
+
+<ul>
+    <li>순서가 없는 리스트</li>
+</ul>
+
+<dl>
+    <dt>정의리스트 타이틀</dt>
+    <dd>리스트 묘사</dd>
+</dl>
+
+<h1>M</h1>
+<pre>
+- main : 문서의 주요내용을 지정합니다 고유합니다
+반복시키지 않습니다 
+- map : 이미지에 투명 버튼을 만들때 사용합니다
+- mark : css사용하지 않고 바탕색상(노란색)을 가지고 있는 태그
+- menu : 사이트에서 다른페이지로 이동하는걸 내비게이션 태그
+li를 사용합니다
+- meta : head요소에서 문서에 대한 메타데이터(데이터에 대한 데이터(정보))를 정의합니다
+- meter : 게이지(스칼라 측정값 또는 분수값)를 정의한다
+</pre>
+
+<p>
+    <label for="disk_d">Disk usage D:</label>
+    <meter value="0.6">60%</meter>
+</p>
+
+<h1>menu : 순서가 지정되지 않는 콘텐츠 목록을 정의 합니다</h1>
+<menu>
+<li>Coffee</li>
+<li>Tea</li>
+<li>Milk</li>
+</menu>
+
+<h1>형광펜으로 칠한 느낌의 태그</h1>
+<mark>C</mark>ascading
+<mark>S</mark>tyle
+<mark>S</mark>heet
+
+<h1>N</h1>
+<pre>
+- nav : 일련의 탐색 링크를 정의합니다
+- noframes : 현재사용하지 않음 예전에 프레임을 지원하지 않는 브라우저에 표기할때 
+- noscript : 브라우저에서 스크립트를 비활성화 했거나 스크립트를 
+지원하지 않는 브라우저를 사용하는 사용자에게 알림표시
+</pre>
+<script>
+documnent.write("메세지")
+</script>
+<noscript>
+당신의 브라우저는 자바스크립트를 지원하지 않습니다
+</noscript>
+<nav>
+<a href="a.html">a로 이동</a>
+<a href="b.html">b로 이동</a>
+</nav>
+
+</body>
+</html>

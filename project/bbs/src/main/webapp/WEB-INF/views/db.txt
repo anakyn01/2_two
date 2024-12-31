@@ -1,0 +1,8 @@
+create table tb_book (
+book_id number NOT NULL primary key,
+title varchar(200) not null,
+category varchar(200) default '',
+price int null,
+insert_date date default sysdate not null
+);
+create sequence seq_book;
